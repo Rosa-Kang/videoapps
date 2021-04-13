@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/videoapps/static/css/main.56e7c971.chunk.css",
+    "main.js": "/videoapps/static/js/main.98300cb2.chunk.js",
+    "main.js.map": "/videoapps/static/js/main.98300cb2.chunk.js.map",
+    "runtime-main.js": "/videoapps/static/js/runtime-main.5cff0e6d.js",
+    "runtime-main.js.map": "/videoapps/static/js/runtime-main.5cff0e6d.js.map",
+    "static/js/2.e1366f00.chunk.js": "/videoapps/static/js/2.e1366f00.chunk.js",
+    "static/js/2.e1366f00.chunk.js.map": "/videoapps/static/js/2.e1366f00.chunk.js.map",
+    "index.html": "/videoapps/index.html",
+    "static/css/main.56e7c971.chunk.css.map": "/videoapps/static/css/main.56e7c971.chunk.css.map",
+    "static/js/2.e1366f00.chunk.js.LICENSE.txt": "/videoapps/static/js/2.e1366f00.chunk.js.LICENSE.txt",
+    "static/media/Icon-fullscreen.1d9f48e9.svg": "/videoapps/static/media/Icon-fullscreen.1d9f48e9.svg",
+    "static/media/Icon-likes.e870740b.svg": "/videoapps/static/media/Icon-likes.e870740b.svg",
+    "static/media/Icon-pause.80263091.svg": "/videoapps/static/media/Icon-pause.80263091.svg",
+    "static/media/Icon-play.1a5961d4.svg": "/videoapps/static/media/Icon-play.1a5961d4.svg",
+    "static/media/main.css": "/videoapps/static/media/upload-video-preview.313a407c.jpg",
+    "static/media/Icon-views.84be3383.svg": "/videoapps/static/media/Icon-views.84be3383.svg",
+    "static/media/Icon-volume.dffff5ec.svg": "/videoapps/static/media/Icon-volume.dffff5ec.svg",
+    "static/media/Mohan-muruge.8fed455b.jpg": "/videoapps/static/media/Mohan-muruge.8fed455b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cff0e6d.js",
+    "static/js/2.e1366f00.chunk.js",
+    "static/css/main.56e7c971.chunk.css",
+    "static/js/main.98300cb2.chunk.js"
+  ]
+}
